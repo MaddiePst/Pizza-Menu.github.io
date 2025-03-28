@@ -27,7 +27,7 @@ The goal of this project was to:
 
 ### Screenshot
 
-![./final screenshot]
+![./final screenshot.png]
 
 ### Links
 
@@ -67,12 +67,12 @@ npm run deploy 2. Creating and Reusing a Component -->
 
 2. To create reusable components (Pizza) that takes props and dynamically displays pizza details:
 
-![./Component-pizza]
+![./Component-pizza.png]
 
 3. Placing JavaScript Logic in Components
    I used JavaScript logic inside the Footer component to determine opening hours dynamically:
 
-   ![./Component-footer]
+   ![./Component-footer.png]
 
 4. Styling React Apps and Connecting to a CSS File
    I used CSS Modules and imported them into my React components:
@@ -83,14 +83,14 @@ The styles were organized in index.css, ensuring modular and clean styling.
 5. Passing and Receiving Props
    Props were used to pass data between components. For example, the Pizza component received a pizzaObj prop containing all pizza details:
 
-![./Component-use-props]
+![./Component-use-props.png]
 
 And inside the Pizza component:
-![./Component-pizza]
+![./Component-pizza.png]
 
 6. Rendering Lists:
    I dynamically rendered a list of pizzas using .map():
-   ![./Component-use-props]
+   ![./Component-use-props.png]
 
 7. Conditional Rendering
    Ternary Operator (? :)
